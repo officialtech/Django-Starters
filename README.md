@@ -58,11 +58,6 @@ for Linux/Mac
 
 
 * <a href="https://www.djangoproject.com/start/"> Django
-
 * <a href="https://docs.python.org/3/tutorial/venv.html"> Virtual Environment
-
-
 * <a href="https://pypi.org/project/python-decouple/"> Python Decouple
-
-
 * <a href="https://emotionaldiary.com"> Emotional Diary
