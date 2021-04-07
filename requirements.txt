@@ -1,0 +1,6 @@
+asgiref
+Django==3.2
+python-decouple
+pytz
+sqlparse
+whitenoise
